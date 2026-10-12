@@ -115,3 +115,43 @@ Microsoft Power Apps es una herramienta que facilita la creación de aplicacione
 Aprender Power Apps es una buena opción para iniciarse en el desarrollo de aplicaciones empresariales y adquirir conocimientos sobre automatización, gestión de datos y transformación digital.
 
 Tecnologías relacionadas: Microsoft Power Apps · Power Fx · Power Automate · Microsoft Dataverse · SharePoint · Power BI
+
+
+---
+# Aquí te dejo unas aplicaciones hechas por mi, le puedes echar un vistazo con los siguientes URL O QR: 
+
+1) Aplicación de suelos:
+   
+   https://apps.powerapps.com/play/e/ff0cb53c-ecc3-e802-a338-c0b6ef8a9355/a/81001f6a-70e7-4fdb-88f0-f5ec5203cbc3?tenantId=68519e48-83f3-435f-a38a-1a7aa77ba987&hint=ad1c1d4d-6330-45ff-b811-15be3441bf1b&sourcetime=1791816165596
+
+   <img width="250" height="172" alt="image" src="https://github.com/user-attachments/assets/a76dcb82-153a-4b36-b254-73ba1cbb3e10" />
+
+2) Aplicación de figuras:
+
+   https://apps.powerapps.com/play/e/ff0cb53c-ecc3-e802-a338-c0b6ef8a9355/a/0a196ccb-9f6b-418c-b5d5-fbb2782b0c0c?tenantId=68519e48-83f3-435f-a38a-1a7aa77ba987&hint=7a3aa87f-218e-49fe-9832-3ee55f38bc44&sourcetime=1791816470088
+
+   <img width="264" height="163" alt="image" src="https://github.com/user-attachments/assets/7e123c1f-9432-4289-81cd-36d784a1e866" />
+
+3) Aplicación de Customers and Expenses:
+
+   https://apps.powerapps.com/play/e/ff0cb53c-ecc3-e802-a338-c0b6ef8a9355/a/39b01c68-321c-4594-9ca2-03f38d65be71?tenantId=68519e48-83f3-435f-a38a-1a7aa77ba987&hint=53dfe87b-63d1-4e18-ade4-55b258fc66a8&sourcetime=1791816636994
+
+   <img width="274" height="156" alt="image" src="https://github.com/user-attachments/assets/37543e96-4576-4029-be5c-b7113ed0df69" />
+
+4) Aplicación de Venta_Coches_JF
+   
+   https://apps.powerapps.com/play/e/ff0cb53c-ecc3-e802-a338-c0b6ef8a9355/a/89858423-22f2-49bc-8666-b726eb84d252?tenantId=68519e48-83f3-435f-a38a-1a7aa77ba987&hint=7cfbc82d-35ae-4ced-a574-2084f4f7e1b6&sourcetime=1791815582973
+
+   <img width="310" height="166" alt="image" src="https://github.com/user-attachments/assets/78f5c80f-9589-4c8b-ae33-993ac912dfc2" />
+   
+5) Aplicación Incidencias_Soporte_JF
+   
+    https://apps.powerapps.com/play/e/ff0cb53c-ecc3-e802-a338-c0b6ef8a9355/a/e1e7186c-65b1-4a63-9a76-3b3ec4eace75?tenantId=68519e48-83f3-435f-a38a-1a7aa77ba987&hint=21cfc403-108e-4f1c-83f2-9d41b7d6c319&sourcetime=1791815620262
+
+    <img width="254" height="156" alt="image" src="https://github.com/user-attachments/assets/69b65047-6158-4636-b313-54c38cf8c9aa" />
+  
+6) Aplicación EventHubApp_JF
+
+    https://apps.powerapps.com/play/e/ff0cb53c-ecc3-e802-a338-c0b6ef8a9355/a/3c65ed0c-07bd-4033-935b-4ed7e5f1c6ae?tenantId=68519e48-83f3-435f-a38a-1a7aa77ba987&hint=6b3ca29f-154b-40d7-9b0f-1c2c7226329f&sourcetime=1791815658630
+
+    <img width="266" height="166" alt="image" src="https://github.com/user-attachments/assets/b9fc5319-2d76-46b3-bdc9-fcdc66305ab0" />
